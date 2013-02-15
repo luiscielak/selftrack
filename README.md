@@ -1,8 +1,8 @@
 selftrack
 =========
 
-# Self-tracking Application
-## Object Oriented Hierarchy
+### Self-tracking Application
+Object Oriented Hierarchy
 
 
      +--------------------+     +---------------------+     +----------------------+
@@ -23,5 +23,8 @@ selftrack
      +--------------------+     +---------------------+     +----------------------+
 
 
+- - -
 
-## http://www.asciiflow.com/#Draw5469151037633263036/347643
+#### Diagram Source
+
+http://www.asciiflow.com/#Draw5469151037633263036/347643

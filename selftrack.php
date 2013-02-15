@@ -123,6 +123,7 @@ class Category{
 - Retrive data from DB? Array?
 - How to display data? (retrieve -> assign -> generate html)
 - Auto-increment IDs
+- How to decide the scope of each function?
 
 -->
 

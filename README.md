@@ -2,7 +2,8 @@ selftrack
 =========
 
 ### Self-tracking Application
-Object Oriented Hierarchy
+
+#### Object Oriented Hierarchy
 
 
      +--------------------+     +---------------------+     +----------------------+
@@ -23,6 +24,18 @@ Object Oriented Hierarchy
      +--------------------+     +---------------------+     +----------------------+
 
 
+#### Enter Emotion
+
+       +------------------+        +------------------+
+       |                  |        |                  |
+       |     emo.php      |+-----> |  setEmotion.php  |
+       |                  |        |                  |
+       +------------------+        +------------------+
+                                      |
+                                      |
+                                      |
+                                      |
+                                      +--+ include getLastEmotion.php
 - - -
 
 #### Diagram Source

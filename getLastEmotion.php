@@ -26,12 +26,11 @@
     <!-- Connect to selftrack DB; mood table -->
 
     <?php
+
         // DB connection info
-        $db_host    = 'fstraat.webfactional.com';
-        $db_user    = 'fstraat_admin';
-        $db_pwd     = 'selftrack';
-        $database   = 'selftrack';
-        $table      = 'vw_emotion';
+        require("db.php");
+
+        $table = 'vw_emotion';
 
         // Connect to mySQL DB
         $conn = mysql_connect($db_host,$db_user,$db_pwd);
